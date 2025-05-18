@@ -291,7 +291,3 @@ To build a scalable, secure, and robust backend system that powers an Airbnb-lik
 | Security & Performance           | ✅        |
 | Scalability                      | ✅        |
 | Testing Frameworks               | ✅        |
-
-
-
-![Airbnb Backend Features Diagram](./assets/Airbnb_database_features.drawio.png)
